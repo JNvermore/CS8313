@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="hw4.Tablet.Tablet"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.Tablet"/>
+<fullyQualifiedTypeName name="abstractFactory.Computer.Computer"/>
+<fullyQualifiedTypeName name="abstractFactory.Accessories.Accessories"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.IPadPro"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.IPadAir"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.IPadMini"/>
+<fullyQualifiedTypeName name="abstractFactory.Watch.Watch"/>
+<fullyQualifiedTypeName name="abstractFactory.Watch.AppleWatch5"/>
+<fullyQualifiedTypeName name="abstractFactory.Watch.AppleWatchHermes"/>
+<fullyQualifiedTypeName name="abstractFactory.Computer.MacBook"/>
+<fullyQualifiedTypeName name="abstractFactory.Accessories.AirPods"/>
+<fullyQualifiedTypeName name="abstractFactory.Accessories.ApplePencil"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.GalaxyTabS"/>
+<fullyQualifiedTypeName name="abstractFactory.Tablet.GalaxyBook"/>
+<fullyQualifiedTypeName name="abstractFactory.Watch.GalaxyWatchActive2"/>
+<fullyQualifiedTypeName name="abstractFactory.Watch.GalaxyFit"/>
+<fullyQualifiedTypeName name="abstractFactory.Computer.NoteBook"/>
+<fullyQualifiedTypeName name="abstractFactory.Accessories.KeyboardCover"/>
+<fullyQualifiedTypeName name="abstractFactory.Accessories.WirelessCharger"/>
+<fullyQualifiedTypeName name="abstractFactory.OSFactory.OSFactory"/>
+</qualifiedTypeNameHistroy>

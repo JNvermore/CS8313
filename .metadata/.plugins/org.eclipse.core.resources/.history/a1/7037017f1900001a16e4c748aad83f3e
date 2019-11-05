@@ -1,0 +1,8 @@
+package abstractFactory.OSFactory;
+
+import abstractFactory.Tablet.Tablet;
+
+public interface OSFactory {
+	public Tablet orderTablet(String tabletModel);
+	
+}

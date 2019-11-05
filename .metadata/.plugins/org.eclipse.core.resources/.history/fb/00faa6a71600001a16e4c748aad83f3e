@@ -1,0 +1,5 @@
+package abstractFactory.Accessories;
+
+public class AirPods implements Accessories {
+
+}

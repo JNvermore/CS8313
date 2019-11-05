@@ -1,0 +1,9 @@
+package abstractFactory.Tablet;
+
+public class GalaxyTabS implements Tablet{
+	@Override
+	public String tabletItem() {
+		return "Galaxy Tab S";
+	}
+}
+

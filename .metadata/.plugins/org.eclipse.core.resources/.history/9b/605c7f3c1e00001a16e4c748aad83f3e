@@ -1,0 +1,11 @@
+package abstractFactory.Product;
+
+public class TabletProduct extends Product {
+
+	@Override
+	void prepare() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

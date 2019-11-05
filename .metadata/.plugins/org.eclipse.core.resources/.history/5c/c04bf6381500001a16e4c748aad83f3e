@@ -1,0 +1,8 @@
+package hw4.Tablet;
+
+public class IPadMini implements Tablet{
+	@Override
+	public String tabletItem() {
+		return "iPad Mini";
+	}
+}

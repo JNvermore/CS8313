@@ -1,0 +1,8 @@
+package hw4.Tablet;
+
+public class IPadAir implements Tablet{
+	@Override
+	public String tabletItem() {
+		return "iPad Air";
+	}
+}

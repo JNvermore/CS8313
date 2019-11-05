@@ -1,0 +1,34 @@
+package abstractFactory.OSFactory;
+
+import abstractFactory.Accessories.Accessories;
+import abstractFactory.Computer.Computer;
+import abstractFactory.Tablet.Tablet;
+import abstractFactory.Watch.Watch;
+
+public class SSOSFactory implements OSFactory {
+
+	@Override
+	public Tablet orderTablet(String tabletModel) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Watch orderWatch(String watchModel) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Computer orderComputer(String computerModel) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Accessories orderAccessories(String accessoriesModel) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

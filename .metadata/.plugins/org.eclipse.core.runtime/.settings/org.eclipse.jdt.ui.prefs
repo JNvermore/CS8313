@@ -1,0 +1,14 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="abstractFactory.Tablet.Tablet"><rhs name\="abstractFactory.Tablet.IPadPro"/><rhs name\="abstractFactory.Tablet.IPadAir"/><rhs name\="abstractFactory.Tablet.IPadMini"/><rhs name\="abstractFactory.Tablet.GalaxyTabS"/><rhs name\="abstractFactory.Tablet.GalaxyBook"/></lhs><lhs name\="abstractFactory.Watch.Watch"><rhs name\="abstractFactory.Watch.AppleWatch5"/><rhs name\="abstractFactory.Watch.AppleWatchHermes"/><rhs name\="abstractFactory.Watch.GalaxyWatchActive2"/><rhs name\="abstractFactory.Watch.GalaxyFit"/></lhs><lhs name\="abstractFactory.Computer.Computer"><rhs name\="abstractFactory.Computer.MacBook"/><rhs name\="abstractFactory.Computer.NoteBook"/></lhs><lhs name\="abstractFactory.Accessories.Accessories"><rhs name\="abstractFactory.Accessories.AirPods"/><rhs name\="abstractFactory.Accessories.ApplePencil"/><rhs name\="abstractFactory.Accessories.KeyboardCover"/><rhs name\="abstractFactory.Accessories.WirelessCharger"/></lhs></history>
+content_assist_number_of_computers=16
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=16
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

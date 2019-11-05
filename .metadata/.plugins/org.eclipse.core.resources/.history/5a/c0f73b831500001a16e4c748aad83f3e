@@ -1,0 +1,5 @@
+package abstractFactory.Tablet;
+
+public interface Tablet {
+	public String tabletItem();
+}
